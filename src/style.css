@@ -1,0 +1,26 @@
+body {
+background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    text-align: center;
+}
+.links{
+    margin: 30px;
+    color:#982e00;
+}
+footer{
+    text-align: center;
+    display:block;
+}
+.photo {
+    display: block;
+    border-radius: 5px;
+    margin:30px auto;
+    width:60%;
+}
